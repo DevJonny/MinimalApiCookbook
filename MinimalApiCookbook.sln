@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryStringBindingAndValidation", "src\QueryStringBindingAndValidation\QueryStringBindingAndValidation.csproj", "{A859867C-5472-4059-809C-B68D93776461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiStructure", "src\ApiStructure\ApiStructure.csproj", "{70391971-A02D-4C5A-B014-DBDBE64C3028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A859867C-5472-4059-809C-B68D93776461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A859867C-5472-4059-809C-B68D93776461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A859867C-5472-4059-809C-B68D93776461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A859867C-5472-4059-809C-B68D93776461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70391971-A02D-4C5A-B014-DBDBE64C3028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70391971-A02D-4C5A-B014-DBDBE64C3028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70391971-A02D-4C5A-B014-DBDBE64C3028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70391971-A02D-4C5A-B014-DBDBE64C3028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

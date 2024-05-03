@@ -1,0 +1,6 @@
+@host = http://localhost:5157
+
+GET {{host}}/ping?message=Hello&amount=1.23&amountString=abc
+Accept: application/json
+
+###
